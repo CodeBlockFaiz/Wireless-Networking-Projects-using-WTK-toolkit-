@@ -1,0 +1,8 @@
+MIDlet-1: ClientServerApp, ClientServerApp.png, ClientServerApp
+MIDlet-Jar-Size: 100
+MIDlet-Jar-URL: ClientServerApp.jar
+MIDlet-Name: ClientServerApp
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
