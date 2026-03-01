@@ -1,0 +1,8 @@
+MIDlet-1: ExpenseTracker, ExpenseTracker.png, ExpenseTracker
+MIDlet-Jar-Size: 100
+MIDlet-Jar-URL: ExpenseTracker.jar
+MIDlet-Name: ExpenseTracker
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
